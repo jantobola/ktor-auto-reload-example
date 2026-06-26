@@ -16,12 +16,6 @@ fun Application.module() {
                 }
                 body {
                     h1 { +"Hello page." }
-                    h1 { +"Hello page." }
-                    h1 { +"Hello page." }
-                    h1 { +"Hello page." }
-                    h1 { +"Hello page." }
-                    h1 { +"Hello page." }
-                    h1 { +"Hello page." }
                 }
             }
         }
